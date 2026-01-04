@@ -1,0 +1,2554 @@
+fileFormatVersion: 2
+guid: 710d2425045ef2d448a7fd457edd4d14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6892485015530423577
+    second: Iron Man_0
+  - first:
+      213: -3573621625423200398
+    second: Iron Man_1
+  - first:
+      213: -5576465469282534459
+    second: Iron Man_2
+  - first:
+      213: -3574666462350047132
+    second: Iron Man_3
+  - first:
+      213: -3792420348810425577
+    second: Iron Man_4
+  - first:
+      213: 4289373664851292597
+    second: Iron Man_5
+  - first:
+      213: -8197459715733448684
+    second: Iron Man_6
+  - first:
+      213: 2398996862272366111
+    second: Iron Man_7
+  - first:
+      213: 7180300544114585020
+    second: Iron Man_8
+  - first:
+      213: -4932946644485486698
+    second: Iron Man_9
+  - first:
+      213: -7073372155404822038
+    second: Iron Man_10
+  - first:
+      213: 7935977589665388588
+    second: Iron Man_11
+  - first:
+      213: 1571286064152534686
+    second: Iron Man_12
+  - first:
+      213: -3259944999234597558
+    second: Iron Man_13
+  - first:
+      213: 5026776377820908705
+    second: Iron Man_14
+  - first:
+      213: -8863953463763172070
+    second: Iron Man_15
+  - first:
+      213: 8711726832254996235
+    second: Iron Man_16
+  - first:
+      213: 8092688363747741066
+    second: Iron Man_17
+  - first:
+      213: -3904946189832429611
+    second: Iron Man_18
+  - first:
+      213: -1164237745386427245
+    second: Iron Man_19
+  - first:
+      213: 2074705852956724824
+    second: Iron Man_20
+  - first:
+      213: -2549638892921036052
+    second: Iron Man_21
+  - first:
+      213: 8835303098509717649
+    second: Iron Man_22
+  - first:
+      213: -578081702927941883
+    second: Iron Man_23
+  - first:
+      213: 4206323505797056605
+    second: Iron Man_24
+  - first:
+      213: 8275732920974642494
+    second: Iron Man_25
+  - first:
+      213: -2351945107331549961
+    second: Iron Man_26
+  - first:
+      213: 5814025061514797240
+    second: Iron Man_27
+  - first:
+      213: -4991126455179065482
+    second: Iron Man_28
+  - first:
+      213: -3432943467949373683
+    second: Iron Man_29
+  - first:
+      213: 7693431300817151503
+    second: Iron Man_30
+  - first:
+      213: 7732462624808854580
+    second: Iron Man_31
+  - first:
+      213: -1780662430625933673
+    second: Iron Man_32
+  - first:
+      213: 4409680021905312957
+    second: Iron Man_33
+  - first:
+      213: 3652573443875619339
+    second: Iron Man_34
+  - first:
+      213: -1027641213262411903
+    second: Iron Man_35
+  - first:
+      213: -2582486845449134897
+    second: Iron Man_36
+  - first:
+      213: 4564917160471187056
+    second: Iron Man_37
+  - first:
+      213: 7013118325748580405
+    second: Iron Man_38
+  - first:
+      213: -1912479966534705098
+    second: Iron Man_39
+  - first:
+      213: 6996132356022884660
+    second: Iron Man_40
+  - first:
+      213: -8624772132978152439
+    second: Iron Man_41
+  - first:
+      213: 571113050948150590
+    second: Iron Man_42
+  - first:
+      213: 2683104876412656676
+    second: Iron Man_43
+  - first:
+      213: 101350579138480267
+    second: Iron Man_44
+  - first:
+      213: -1523859700771447956
+    second: Iron Man_45
+  - first:
+      213: -1728990083270300394
+    second: Iron Man_46
+  - first:
+      213: 543865084667960997
+    second: Iron Man_47
+  - first:
+      213: 8966515151378693656
+    second: Iron Man_48
+  - first:
+      213: -1475518454319614799
+    second: Iron Man_49
+  - first:
+      213: -8214376612095080818
+    second: Iron Man_50
+  - first:
+      213: 2922829601970449950
+    second: Iron Man_51
+  - first:
+      213: -5072040020616055898
+    second: Iron Man_52
+  - first:
+      213: -6291095579623184298
+    second: Iron Man_53
+  - first:
+      213: -3419736994617873417
+    second: Iron Man_54
+  - first:
+      213: 3998803381354077670
+    second: Iron Man_55
+  - first:
+      213: 6796438752400881872
+    second: Iron Man_56
+  - first:
+      213: 140273438255175030
+    second: Iron Man_57
+  - first:
+      213: 2632826737913163443
+    second: Iron Man_58
+  - first:
+      213: -8636688939700075227
+    second: Iron Man_59
+  - first:
+      213: -8778307605429651496
+    second: Iron Man_60
+  - first:
+      213: -2176356153577449953
+    second: Iron Man_61
+  - first:
+      213: 3768723894407192048
+    second: Iron Man_62
+  - first:
+      213: 1798272232368142701
+    second: Iron Man_63
+  - first:
+      213: 7658626544244514305
+    second: Iron Man_64
+  - first:
+      213: -7266634475599983813
+    second: Iron Man_65
+  - first:
+      213: 289228203795008722
+    second: Iron Man_66
+  - first:
+      213: -258312992606360534
+    second: Iron Man_67
+  - first:
+      213: 2344462417875317134
+    second: Iron Man_68
+  - first:
+      213: -3823558531075005524
+    second: Iron Man_69
+  - first:
+      213: 7359456276665535344
+    second: Iron Man_70
+  - first:
+      213: -7572895429144963688
+    second: Iron Man_71
+  - first:
+      213: -7071881702390804762
+    second: Iron Man_72
+  - first:
+      213: -4626778189320961497
+    second: Iron Man_73
+  - first:
+      213: -1606548427421139376
+    second: Iron Man_74
+  - first:
+      213: 3040242233221039365
+    second: Iron Man_75
+  - first:
+      213: -5449986332607553404
+    second: Iron Man_76
+  - first:
+      213: -2854532162181504787
+    second: Iron Man_77
+  - first:
+      213: 4307105622353899932
+    second: Iron Man_78
+  - first:
+      213: 5352136965676320758
+    second: Iron Man_79
+  - first:
+      213: -8207370341623939504
+    second: Iron Man_80
+  - first:
+      213: 4613062576465868379
+    second: Iron Man_81
+  - first:
+      213: 1980915325209458831
+    second: Iron Man_82
+  - first:
+      213: -7901929718112023609
+    second: Iron Man_83
+  - first:
+      213: 6871863850608439783
+    second: Iron Man_84
+  - first:
+      213: 5695745988300219019
+    second: Iron Man_85
+  - first:
+      213: -363832013105798891
+    second: Iron Man_86
+  - first:
+      213: -7124898016153874208
+    second: Iron Man_87
+  - first:
+      213: 4740760422884811919
+    second: Iron Man_88
+  - first:
+      213: -875080218624835211
+    second: Iron Man_89
+  - first:
+      213: 7835605529298114090
+    second: Iron Man_90
+  - first:
+      213: 3514278625605291303
+    second: Iron Man_91
+  - first:
+      213: -7153278482254723560
+    second: Iron Man_92
+  - first:
+      213: 1951782333351487521
+    second: Iron Man_93
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Iron Man_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 955
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 915c46a8a9607af50800000000000000
+      internalID: 6892485015530423577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_1
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 884
+        width: 39
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ffef6c012f76ec0800000000000000
+      internalID: -3573621625423200398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 884
+        width: 40
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cbbe29733a6c92b0800000000000000
+      internalID: -5576465469282534459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_3
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 884
+        width: 40
+        height: 88
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4688f19bacb346ec0800000000000000
+      internalID: -3574666462350047132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_4
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 884
+        width: 39
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b013e29cd9e5bc0800000000000000
+      internalID: -3792420348810425577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 884
+        width: 39
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b170624f9ae68b30800000000000000
+      internalID: 4289373664851292597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_6
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 884
+        width: 39
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418122f02d5cc3e80800000000000000
+      internalID: -8197459715733448684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_7
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 942
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1665019fe2fa4120800000000000000
+      internalID: 2398996862272366111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 884
+        width: 41
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbd6e705d4d85a360800000000000000
+      internalID: 7180300544114585020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_9
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 884
+        width: 47
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 697cc77a927aa8bb0800000000000000
+      internalID: -4932946644485486698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_10
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 884
+        width: 73
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae9d4f0408556dd90800000000000000
+      internalID: -7073372155404822038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_11
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 793
+        width: 34
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2857793291422e60800000000000000
+      internalID: 7935977589665388588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_12
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 794
+        width: 29
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e555ea9545ec510800000000000000
+      internalID: 1571286064152534686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 793
+        width: 40
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d8f4d8b4952c2d0800000000000000
+      internalID: -3259944999234597558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_14
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 793
+        width: 33
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ac075d8b72b2c540800000000000000
+      internalID: 5026776377820908705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_15
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 793
+        width: 23
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a158dc6b949ecf480800000000000000
+      internalID: -8863953463763172070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_16
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 793
+        width: 40
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f4cc0b56546e870800000000000000
+      internalID: 8711726832254996235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_17
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 793
+        width: 54
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d0f1f90310f4070800000000000000
+      internalID: 8092688363747741066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_18
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 793
+        width: 77
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfd5003128dec9c0800000000000000
+      internalID: -3904946189832429611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_19
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 793
+        width: 54
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ce32060fbc7dfe0800000000000000
+      internalID: -1164237745386427245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_20
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 793
+        width: 76
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85ec8e22bf5dacc10800000000000000
+      internalID: 2074705852956724824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_21
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 691
+        width: 39
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2ebe97fecdd9cd0800000000000000
+      internalID: -2549638892921036052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_22
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 696
+        width: 39
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190749d4b5d4d9a70800000000000000
+      internalID: 8835303098509717649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_23
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 702
+        width: 39
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fb3d501cd3af7f0800000000000000
+      internalID: -578081702927941883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_24
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 706
+        width: 31
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58c86541fcdf5a30800000000000000
+      internalID: 4206323505797056605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_25
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 717
+        width: 35
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d03b2be3f49d270800000000000000
+      internalID: 8275732920974642494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_26
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 718
+        width: 35
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4f842d2663c5fd0800000000000000
+      internalID: -2351945107331549961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_27
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 718
+        width: 35
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b0eeca4df09fa050800000000000000
+      internalID: 5814025061514797240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_28
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 718
+        width: 35
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6774ff1eee4fbbab0800000000000000
+      internalID: -4991126455179065482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_29
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 706
+        width: 31
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0741eaba1cbb50d0800000000000000
+      internalID: -3432943467949373683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_30
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 695
+        width: 35
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06e31da10f84ca60800000000000000
+      internalID: 7693431300817151503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_31
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 690
+        width: 35
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43467b6f9c93f4b60800000000000000
+      internalID: 7732462624808854580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_32
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 691
+        width: 43
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79658a524f0d947e0800000000000000
+      internalID: -1780662430625933673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_33
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 569
+        width: 43
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc8dcecd94523d30800000000000000
+      internalID: 4409680021905312957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_34
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 569
+        width: 62
+        height: 81
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b024b3ee13c80b230800000000000000
+      internalID: 3652573443875619339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_35
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 569
+        width: 51
+        height: 90
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18741fed2c51db1f0800000000000000
+      internalID: -1027641213262411903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_36
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 569
+        width: 51
+        height: 95
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc92eb85e9292cd0800000000000000
+      internalID: -2582486845449134897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_37
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 569
+        width: 30
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e48f2b8f7d95f30800000000000000
+      internalID: 4564917160471187056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_38
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 569
+        width: 30
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 530c60ec5f9935160800000000000000
+      internalID: 7013118325748580405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_39
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 569
+        width: 31
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 630e5aa6a918575e0800000000000000
+      internalID: -1912479966534705098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_40
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 569
+        width: 30
+        height: 118
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4395c5a8f41471160800000000000000
+      internalID: 6996132356022884660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_41
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 569
+        width: 48
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c2629e077ae4880800000000000000
+      internalID: -8624772132978152439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_42
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 569
+        width: 36
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35aa504b400de700800000000000000
+      internalID: 571113050948150590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_43
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 568
+        width: 35
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42cd1bd5bad4c3520800000000000000
+      internalID: 2683104876412656676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_44
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 467
+        width: 39
+        height: 96
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88445390d1186100800000000000000
+      internalID: 101350579138480267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_45
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 472
+        width: 39
+        height: 91
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b1cf70da92adae0800000000000000
+      internalID: -1523859700771447956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_46
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 482
+        width: 31
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61d208a0ea46108e0800000000000000
+      internalID: -1728990083270300394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_47
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 494
+        width: 35
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ae1f59b9623c8700800000000000000
+      internalID: 543865084667960997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_48
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 511
+        width: 99
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81eb51706067f6c70800000000000000
+      internalID: 8966515151378693656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_49
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 511
+        width: 94
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4febe88c7e58be0800000000000000
+      internalID: -1475518454319614799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_50
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 494
+        width: 35
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e86cbc03efba00e80800000000000000
+      internalID: -8214376612095080818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_51
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 482
+        width: 31
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ee174890aff8820800000000000000
+      internalID: 2922829601970449950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_52
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 471
+        width: 35
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a37d9c597e7c99b0800000000000000
+      internalID: -5072040020616055898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_53
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 466
+        width: 35
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658a788e6e981b8a0800000000000000
+      internalID: -6291095579623184298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_54
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 467
+        width: 80
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb2a8a6257aa80d0800000000000000
+      internalID: -3419736994617873417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_55
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 373
+        width: 44
+        height: 86
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ed9d302d7a9e7730800000000000000
+      internalID: 3998803381354077670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_56
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 373
+        width: 41
+        height: 87
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d8bd86490dc15e50800000000000000
+      internalID: 6796438752400881872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_57
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 373
+        width: 46
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6755f9ae2f952f100800000000000000
+      internalID: 140273438255175030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_58
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 373
+        width: 63
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bee67408fda98420800000000000000
+      internalID: 2632826737913163443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_59
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 373
+        width: 70
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 525c1a12b21542880800000000000000
+      internalID: -8636688939700075227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_60
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 373
+        width: 57
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d771490ebf2d2680800000000000000
+      internalID: -8778307605429651496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_61
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 431
+        width: 32
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16d741fb970cc1e0800000000000000
+      internalID: -2176356153577449953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_62
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 373
+        width: 57
+        height: 70
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fddaa61a623d4430800000000000000
+      internalID: 3768723894407192048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_63
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 432
+        width: 28
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6970c3511fb4f810800000000000000
+      internalID: 1798272232368142701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_64
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 290
+        width: 37
+        height: 76
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e521dc348e84a60800000000000000
+      internalID: 7658626544244514305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_65
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 291
+        width: 50
+        height: 75
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b8149d17ab72b90800000000000000
+      internalID: -7266634475599983813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_66
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 297
+        width: 72
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcc93ad48b830400800000000000000
+      internalID: 289228203795008722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_67
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 282
+        width: 42
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c64daa3b94a6cf0800000000000000
+      internalID: -258312992606360534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_68
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 282
+        width: 40
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8136b6c524398020800000000000000
+      internalID: 2344462417875317134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_69
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 281
+        width: 63
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca32c5926cdffeac0800000000000000
+      internalID: -3823558531075005524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_70
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 281
+        width: 65
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07b0ba6dd7a022660800000000000000
+      internalID: 7359456276665535344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_71
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 281
+        width: 63
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89592a8eabba7e690800000000000000
+      internalID: -7572895429144963688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_72
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 306
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ee49636f01abdd90800000000000000
+      internalID: -7071881702390804762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_73
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 281
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 722cff220c16acfb0800000000000000
+      internalID: -4626778189320961497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_74
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 193
+        width: 40
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05eb91597b464b9e0800000000000000
+      internalID: -1606548427421139376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_75
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 193
+        width: 61
+        height: 77
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 505c746043c113a20800000000000000
+      internalID: 3040242233221039365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_76
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 193
+        width: 42
+        height: 82
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48061364e42cd54b0800000000000000
+      internalID: -5449986332607553404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_77
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 191
+        width: 52
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de06e395f1aa268d0800000000000000
+      internalID: -2854532162181504787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_78
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 191
+        width: 31
+        height: 83
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c91fd765eb9e5cb30800000000000000
+      internalID: 4307105622353899932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_79
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 202
+        width: 57
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7cf54a63c964a40800000000000000
+      internalID: 5352136965676320758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_80
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 202
+        width: 64
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ebd67a820991e80800000000000000
+      internalID: -8207370341623939504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_81
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 202
+        width: 50
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5675e4e8f3e40040800000000000000
+      internalID: 4613062576465868379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_82
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 196
+        width: 38
+        height: 71
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88bc313eff9d7b10800000000000000
+      internalID: 1980915325209458831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_83
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 112
+        width: 45
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb84df99c4b65290800000000000000
+      internalID: -7901929718112023609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_84
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 112
+        width: 45
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e13d5073c3cd5f50800000000000000
+      internalID: 6871863850608439783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_85
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 126
+        width: 82
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b82ad7b8cca5b0f40800000000000000
+      internalID: 5695745988300219019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_86
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 112
+        width: 83
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 511e9e436b863faf0800000000000000
+      internalID: -363832013105798891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_87
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 112
+        width: 71
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e0534ee0074f1d90800000000000000
+      internalID: -7124898016153874208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_88
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 113
+        width: 41
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84a74bac709ac140800000000000000
+      internalID: 4740760422884811919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_89
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 10
+        width: 50
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57145e27d271bd3f0800000000000000
+      internalID: -875080218624835211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_90
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 10
+        width: 53
+        height: 85
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2696edc6b9adbc60800000000000000
+      internalID: 7835605529298114090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_91
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 10
+        width: 54
+        height: 92
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72d83f06ac935c030800000000000000
+      internalID: 3514278625605291303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Iron Man_92
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 10
+        width: 56
+        height: 84
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81603cdbe137abc90800000000000000
+      internalID: -7153278482254723560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 61f59293f9ab5cd46bf6638ed5adad04
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.0},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":7,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Iron Man_0: 6892485015530423577
+      Iron Man_1: -3573621625423200398
+      Iron Man_10: -7073372155404822038
+      Iron Man_11: 7935977589665388588
+      Iron Man_12: 1571286064152534686
+      Iron Man_13: -3259944999234597558
+      Iron Man_14: 5026776377820908705
+      Iron Man_15: -8863953463763172070
+      Iron Man_16: 8711726832254996235
+      Iron Man_17: 8092688363747741066
+      Iron Man_18: -3904946189832429611
+      Iron Man_19: -1164237745386427245
+      Iron Man_2: -5576465469282534459
+      Iron Man_20: 2074705852956724824
+      Iron Man_21: -2549638892921036052
+      Iron Man_22: 8835303098509717649
+      Iron Man_23: -578081702927941883
+      Iron Man_24: 4206323505797056605
+      Iron Man_25: 8275732920974642494
+      Iron Man_26: -2351945107331549961
+      Iron Man_27: 5814025061514797240
+      Iron Man_28: -4991126455179065482
+      Iron Man_29: -3432943467949373683
+      Iron Man_3: -3574666462350047132
+      Iron Man_30: 7693431300817151503
+      Iron Man_31: 7732462624808854580
+      Iron Man_32: -1780662430625933673
+      Iron Man_33: 4409680021905312957
+      Iron Man_34: 3652573443875619339
+      Iron Man_35: -1027641213262411903
+      Iron Man_36: -2582486845449134897
+      Iron Man_37: 4564917160471187056
+      Iron Man_38: 7013118325748580405
+      Iron Man_39: -1912479966534705098
+      Iron Man_4: -3792420348810425577
+      Iron Man_40: 6996132356022884660
+      Iron Man_41: -8624772132978152439
+      Iron Man_42: 571113050948150590
+      Iron Man_43: 2683104876412656676
+      Iron Man_44: 101350579138480267
+      Iron Man_45: -1523859700771447956
+      Iron Man_46: -1728990083270300394
+      Iron Man_47: 543865084667960997
+      Iron Man_48: 8966515151378693656
+      Iron Man_49: -1475518454319614799
+      Iron Man_5: 4289373664851292597
+      Iron Man_50: -8214376612095080818
+      Iron Man_51: 2922829601970449950
+      Iron Man_52: -5072040020616055898
+      Iron Man_53: -6291095579623184298
+      Iron Man_54: -3419736994617873417
+      Iron Man_55: 3998803381354077670
+      Iron Man_56: 6796438752400881872
+      Iron Man_57: 140273438255175030
+      Iron Man_58: 2632826737913163443
+      Iron Man_59: -8636688939700075227
+      Iron Man_6: -8197459715733448684
+      Iron Man_60: -8778307605429651496
+      Iron Man_61: -2176356153577449953
+      Iron Man_62: 3768723894407192048
+      Iron Man_63: 1798272232368142701
+      Iron Man_64: 7658626544244514305
+      Iron Man_65: -7266634475599983813
+      Iron Man_66: 289228203795008722
+      Iron Man_67: -258312992606360534
+      Iron Man_68: 2344462417875317134
+      Iron Man_69: -3823558531075005524
+      Iron Man_7: 2398996862272366111
+      Iron Man_70: 7359456276665535344
+      Iron Man_71: -7572895429144963688
+      Iron Man_72: -7071881702390804762
+      Iron Man_73: -4626778189320961497
+      Iron Man_74: -1606548427421139376
+      Iron Man_75: 3040242233221039365
+      Iron Man_76: -5449986332607553404
+      Iron Man_77: -2854532162181504787
+      Iron Man_78: 4307105622353899932
+      Iron Man_79: 5352136965676320758
+      Iron Man_8: 7180300544114585020
+      Iron Man_80: -8207370341623939504
+      Iron Man_81: 4613062576465868379
+      Iron Man_82: 1980915325209458831
+      Iron Man_83: -7901929718112023609
+      Iron Man_84: 6871863850608439783
+      Iron Man_85: 5695745988300219019
+      Iron Man_86: -363832013105798891
+      Iron Man_87: -7124898016153874208
+      Iron Man_88: 4740760422884811919
+      Iron Man_89: -875080218624835211
+      Iron Man_9: -4932946644485486698
+      Iron Man_90: 7835605529298114090
+      Iron Man_91: 3514278625605291303
+      Iron Man_92: -7153278482254723560
+      Iron Man_93: 1951782333351487521
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
